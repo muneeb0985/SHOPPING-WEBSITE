@@ -17,7 +17,7 @@ Auth0 Authentication
 Product Filtering based on categories
 
 Additionally, I have integrated a Contact Us page with Firebase, which allows users to send messages through a contact form — these messages are stored directly in Firebase.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Other features include:
 
 Product Detail View (Clicking the eye icon shows detailed information)
