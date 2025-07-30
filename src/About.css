@@ -1,0 +1,35 @@
+.about-container {
+  text-align: center;
+  padding: 80px;
+  background-color: #f9f9f9;
+  color: #333;
+}
+.about-container h1 {
+  font-size: 40px;
+  padding: 10px;
+  color: rgb(224, 13, 101);
+}
+.about-container p {
+  font-size: 18px;
+  max-width: 600px;
+  margin: auto;
+  line-height: 1.6;
+}
+.gmail p{
+font-size: 18px;
+  max-width: 600px;
+  margin: auto;
+  line-height: 1.6; 
+  color: black;
+  font-weight: 600;
+  padding: 5px;
+}
+.Location p{
+font-size: 18px;
+  max-width: 600px;
+  margin: auto;
+  line-height: 1.6; 
+  color: black;
+  font-weight: 600;
+  padding: 5px;
+}

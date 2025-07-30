@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+}
+
+.top_header {
+  max-width: 100%; 
+  display: flex;
+  align-items: center;
+  padding: 10px 10px;
+  background: #f6f7f8;
+}
+
+.icon {
+  margin-left: 20px;
+  color: #ababab;
+  font-size: 19px;
+}
+
+.info p {
+  color: #8a8a8a;
+  margin-left: 10px;
+}
+
+.mid_header {
+  max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+.logo {
+  font-size: 60px;
+  cursor: pointer;
+  object-fit: cover; 
+}
+
+.searchbox input {
+  padding: 10px 10px;
+  outline: none;
+  background: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 250px;
+  border: none;
+  background-color: #f6f7f8;
+}
+
+.searchbox button {
+  padding: 10px 10px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: none;
+  outline: none;
+  width: 50px;
+  background: black;
+  color: #fff;
+  cursor: pointer;
+  margin-right: 30px;
+  transition: 0.5s;
+  font-weight: 600;
+}
+
+.searchbox button:hover {
+  background: rgb(146, 235, 183);
+  color: black;
+}
+
+.user {
+  display: flex;
+  margin-right: 30px;
+}
+
+.user jhon {
+  margin-right: 10px;
+}
+
+.user button {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background: none;
+  cursor: pointer;
+}
+
+.nav {
+  width: 100%;
+  padding: 10px 10px;
+  display: flex;
+  background: black;
+  justify-content: space-between;
+}
+
+.login_button button {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background: none;
+  cursor: pointer;
+}
+.last_header {
+  width: 100%;
+  background-color: #232323;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px 40px;
+}
+.user_profile {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  margin-right: auto;
+}
+.optp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px 10px;
+  background: #232323;
+}
+.optp ul {
+  display: flex;
+}
+.optp ul li {
+  list-style: none;
+}
+.optp ul li .link {
+  margin-right: 90px;
+  margin-left: 120px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  transition: 0.5s;
+}
+.optp ul li .link:hover {
+  color: #fed700;
+}
+.offer {
+  margin-right: 20px;
+  padding: 10px 20px;
+  background: #fed700;
+  border-radius: 10px;
+}
+.offer p{
+margin-top: 1px;
+text-transform: uppercase;
+color: #232323;
+font-weight: 600;
+font-size: 14px;
+}
