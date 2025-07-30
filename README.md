@@ -2,8 +2,9 @@ Hello everyone! This is me, Syed Muneeb Ahmed. I have created a shopping website
 
 This project is built using React Routing for seamless navigation across different pages and Redux for efficient state management.
 The website offers several exciting features, including:
+-----------------------------------------------------------
 FEATURE
---------------------------------------------------------
+-----------------------------------------------------------
 New Arrivals
 
 Trending Products
@@ -15,6 +16,7 @@ Navigation links like Home, Shop, Collection, About, and Contact
 Auth0 Authentication
 
 Product Filtering based on categories
+---------------------------------------------------------------
 ADDITIONAL FREATURE 
 ----------------------------------------------------------------
 Additionally, I have integrated a Contact Us page with Firebase, which allows users to send messages through a contact form — these messages are stored directly in Firebase.
